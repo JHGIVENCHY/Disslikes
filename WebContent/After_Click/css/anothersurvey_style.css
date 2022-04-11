@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.button {
+  background-color: #f4e028;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  font-weight:bold;
+  margin: 0px 2px 30px 2px;
+  cursor: pointer;  
+}
+
+.move_vote{
+	border-radius: 12px;
+}
+
+.move_vote:hover {
+	background-color: #f1f1f1;
+  	color: hotpink;
+}

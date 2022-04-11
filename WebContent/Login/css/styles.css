@@ -1,0 +1,118 @@
+@charset "UTF-8";
+/* *는 모든 항목에 동일하게 주는 옵션이다. */
+* { 
+	text-align:center;
+	/* box-sizing:border-box; box-sizing을 border-box로 설정함으로써 픽셀 간 계산을 좀 더 가시적으로 쉽게 하도록 했다. */
+	font-family: 'Noto Sans KR', sans-serif;
+}
+body {
+  /* margin: 0; */
+  background-color: #ffffff;
+  font-size: 12px;
+  /* white-space: normal; 자동 줄바꿈 옵션 */
+}
+
+
+section {
+	/* white-space: namal; */
+	margin-top: 100px;
+}
+article{
+	margin-top: 100px;
+}
+/* p {
+	font-size: 15px;
+} */
+.p1 {
+	font-size: 15px;
+}
+.p2 {
+	margin-top: 94px;
+	font-weight: bold;
+	font-size: 20px;
+}
+h1{
+	position: relative;
+	white-space: nowrap;
+}
+.login-form { /* login-form 클래스는 아이디 비밀번호를 입력하는 박스와 로그인 박스를 포함한다.
+				 이 박스들은 공통적으로 가운데 정렬(block display 이므로 auto), 300px의 크기, 테두리 없음 아래 마진 10px라는 값을 가지고 있다.*/
+    width: 350px;
+    background-color: #ffffff;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+    border: none;
+    
+}
+.text-title { /* 아이디 비번 의 제목. */
+	font-weight: bold;
+	text-align: left;
+	padding: 3px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	font-size: 17px;
+}
+.text-field {/* text field 클래스는 아이디와 비밀번호 글자박스에 대한 클래스이다. 
+				아이디 글자와 비밀번호 글자는 서로 박스에서부터 10px만큼 띄어져있다. 
+				테두리도 없으며 아래 마진이 10px만큼 띄어지도록 했다. */
+	text-align: left;		
+      font-size: 14px;
+      padding: 10px;
+      /* border: none; 테두리 없애기.*/ 
+      border-color:black;
+      border-left-width: 0px;
+      border-right-width: 0px;
+      border-top-width: 0px;
+      border-bottom-width: 1px;
+      width: 320px;
+      height : 10px;
+      margin-bottom: 10px;
+      border-radius: 0;
+      
+}
+.text-body {
+	margin-top: 0px;
+	height: 5px;
+	text-align: right;
+	
+}
+ 
+.submit-btn {/* submit-btn 클래스는 로그인 박스에 대한 클래스로 아래와 같이 출력되도록 수정했다. */
+
+  font-size: 25px;
+  border: none;
+  padding: 10px;
+  width: 200px;
+  background-color: #ff6464;
+  margin-bottom: 50px;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
+ 
+.links {
+    text-align: right;
+    font-weight: bold;
+}
+ 
+.links a { /* links a도 아래와 같이 출력되도록 바꾸어 준다. */
+  font-size: 16px;
+  color: #000000;
+}
+.links2 {
+	font-size: 16px;
+}
+ 
+.links2 a {
+  font-size: 16px;
+  color: #fe5745; /* 오븐회원가입 버튼과 색일치. */
+  font-weight: bold;
+  
+}
+#img1:hover { 
+	 opacity: 0.8;
+} 
+#check {
+	text-align: right;
+}

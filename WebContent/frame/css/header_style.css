@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+a#home  {
+	font-family: 'Gugi', cursive;
+	font-size: 40pt;
+	color: #212121;
+	text-decoration:none;
+	font-weight:bold;
+	}
+	
+a#login {
+	font-family: 'Noto Sans KR', sans-serif;
+	font-size: 18pt;
+	font-weight: 500;
+	color: #212121;
+	text-decoration:none;
+}
+
+.wrapper { 
+	display:block; 
+}
+
+button.btn {
+	background-color:white;
+}
+
+#sidebar {
+    width: 300px;
+    position: fixed;
+    top: 0;
+    left: -300px;
+    height: 100vh;
+    z-index: 999;
+    background: #fe5744;
+    color: #212121;
+    transition: all 0.3s;
+    overflow-y: scroll;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.2);
+}
+
+#sidebar.active {
+    left: 0;
+}
+
+#dismiss {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+    text-align: center;
+    background: #fe5744;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+    -webkit-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    transition: all 0.3s;
+}
+
+#dismiss:hover {
+    background: #212121;
+    color: #fe5744;
+}
+
+#dismiss > i {
+	margin-top : 23px
+}
+
+.all_overlay {
+    display: none;
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.7);
+    z-index: 998;
+    opacity: 0;
+    transition: all 0.5s ease-in-out;
+}
+.all_overlay.active {
+    display: block;
+    opacity: 1;
+}
+
+#sidebar .sidebar-header {
+	font-size: 30pt;
+    padding: 20px;
+    background: #fe5744;
+    font-family: 'Gugi', cursive;
+	color: #212121;
+	font-weight: bold;
+}
+
+#sidebar ul.components {
+    padding: 20px 0;
+    border-bottom: 1px solid #fe5744;
+}
+
+#sidebar ul li a {
+    padding: 10px;
+    font-size: 1.1em;
+    display: block;
+    color:#212121;
+    font-family: 'Noto Sans KR', sans-serif;
+	font-size: 16pt;
+	font-weight: 600;
+}
+
+#sidebar ul li a:hover {
+    color: #212121;
+    background: #C44D3F;
+    text-decoration:none;
+}
+
+#sidebar ul li.active>a,
+a[aria-expanded="true"] {
+    color: #212121;
+    background: #C44D3F;
+}
+
+a[data-toggle="collapse"] {
+    position: relative;
+}
+
+.dropdown-toggle::after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    right: 20px;
+    transform: translateY(-50%);
+}
+
+ul ul a {
+    font-size: 0.9em !important;
+    padding-left: 30px !important;
+    background: #C44D3F;
+}

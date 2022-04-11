@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+div#Timer01 {
+  display: inline-block;
+  color: red;
+  text-align:center;
+  font-family: 'Noto Sans KR', sans-serif;
+   font-size: 28pt;
+   font-weight: 700;
+   color: #fe5744;
+   margin-top:-1rem;
+  /* margin-top : -2rem; */
+}
+

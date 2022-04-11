@@ -1,0 +1,22 @@
+@charset "EUC-KR";
+.title{font-size:40pt;font-weight:bold}
+#star{color:#ff0000; font-size:22pt;font-weight:bold;vertical-align:top}
+#main{font-size:24pt; font-weight:bold;}
+#sub{vertical-align:80%;font-size:10pt}
+#categori{font-size:12pt;font-weight:bold}
+#gray{font-size:12pt;color:#808080;font-weight:bold}
+.upload label{
+display: inline-block;
+padding: .5em .75em; 
+color: #ffffff; 
+font-size: inherit; 
+line-height: normal; 
+vertical-align: middle; 
+background-color: #808080; 
+cursor: pointer; 
+border: 1px solid #ebebeb; 
+border-bottom-color: #414141; border-radius: .25em;}
+table, td, th {
+  border-collapse : collapse;
+};
+

@@ -1,0 +1,136 @@
+@charset "EUC-KR";
+	
+	* {
+		text-align: center;
+		position: static;
+	}
+	
+	header {
+		position: relative;
+		right: 0px;
+	}
+	
+	#menu {
+		position: relative;
+		right: 500px;
+		text-decoration: none;
+	}
+	
+	.log {
+		margin-top: -30px;
+	}
+	
+	#log {
+		text-decoration: none;
+		font-size: 25px;
+		font-weight: bold;
+		font-style: italic;
+		color: gray;
+		margin-left: 1000px;
+	}
+	
+	.title {
+		position: relative;
+		right: 500px;		
+		margin-top: 100px;
+		white-space: nowrap;
+	} 
+	
+	#list {
+		text-decoration: none;
+		color: black;
+		font-size: 23px;
+		font-weight: bold;
+	}
+	
+	.pro {
+		display: inline-block;
+		position: relative;
+		margin-top: 100px;
+	}
+	
+	.pro_img {
+		display: inline;
+		vertical-align: bottom;
+		width: 500px;
+		height: 500px;
+		cursor:pointer; 
+	}
+	
+	.right {
+		position: relative;
+		left: 30px;
+		width: 50px;
+		height: 50px;
+		margin-bottom: 190px;
+	}
+	.left {
+		position: relative;
+		right: 30px;
+		width: 50px;
+		height: 50px;
+		margin-bottom: 190px;
+	}
+	
+	.pro_name {
+		width: 1000px;
+		height: 60px;
+		background-color: black;
+		color: white;
+		font-size: 40px;
+		font-weight: bold;
+		margin-left: 90px;
+	}
+	
+	.last {
+		position: relative;
+		right: 0px;
+		display: inline-block;
+		margin-top: 100px;
+	}
+	
+	.last_item {
+	    width: 500px;
+	    height: 500px; 
+	    border-radius: 70%;
+	    overflow: hidden;
+	}
+	
+	.last_img {
+	    width: 100%;
+	    height: 100%;
+	    object-fit: cover;
+	}
+	
+	.dot {
+	  height: 15px;
+	  width: 15px;
+	  margin: 0 2px;
+	  background-color: #bbb;
+	  border-radius: 50%;
+	  display: inline-block;
+	  transition: background-color 0.6s ease;
+	}
+
+	.active {
+	  background-color: #717171;
+	}
+	
+	.vote_making {
+		display: inline-block;
+		position: relative;
+		right: 0px;
+		margin-top: 100px;
+		background-size: 500px 500px;
+	}
+	
+	.vote_making:hover { 
+		opacity: 0.8; 
+	}
+
+		
+		
+	
+	
+	
+	
