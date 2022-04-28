@@ -9,13 +9,6 @@
 <video src="https://user-images.githubusercontent.com/85157790/165747505-97785237-2341-47fc-a290-3a862448386d.mp4"></video>
 <hr>
 <h3>로그인페이지</h3>
-
-
-
-
-![2022-04-28 (16)]()
-![2022-04-28 (17)]()
-
 <image src="https://user-images.githubusercontent.com/85157790/165747561-83aaa552-4aad-4a56-b1aa-de1ae9ddd7fa.png"></image>
 <ul>
   <li> 로그인, 회원가입, 비밀번호찾기 가능하며, 비밀번호 틀릴시 위와같이 표시됩니다.
