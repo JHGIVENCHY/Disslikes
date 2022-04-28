@@ -27,13 +27,11 @@
   <li>로그인과, 회원가입 비밀번호 찾기 할수 있습니다.
 </ul>
 <hr>
-<hr>
 <h3>회원가입페이지</h3>
 <image src="https://user-images.githubusercontent.com/85157790/165749703-db6daa20-dbe9-4555-9bb4-519550811737.png"></image>
 <ul>
   <li> 간단하게 메일과 비밀번호만 입력받아 가입 할 수 있습니다.
 </ul>
-<hr>
 <hr>
 <h3>비밀번호찾기페이지</h3>
 <image src="https://user-images.githubusercontent.com/85157790/165749696-2f6da6b5-e662-4e32-8016-431502570a65.png"></image>
