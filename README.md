@@ -77,7 +77,6 @@
 <h2>시스템개요</h2>
 <image src="https://user-images.githubusercontent.com/85157790/165755630-35aead56-9d30-4b48-9143-e4dca472309b.png"></image>
 <hr>
-<ol>
-  <li>  
-</ol>
-<image src=""></image>
+<!--
+마크다운으로 주석 처리 가능
+-->
