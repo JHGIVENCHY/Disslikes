@@ -78,5 +78,11 @@
 <image src="https://user-images.githubusercontent.com/85157790/165755630-35aead56-9d30-4b48-9143-e4dca472309b.png"></image>
 <hr>
 <!--
+<h2>기술스택</h2>
+<ul>
+  <li>Java
+  <li>JavaScript
+</ul>
+
 마크다운으로 주석 처리 가능
 -->
