@@ -21,6 +21,7 @@
   <li>로그인과, 회원가입 비밀번호 찾기 할수 있습니다.
 </ul>
 <hr>
+<h3>진행중인 투표리스트페이지</h3>
 <image src="https://user-images.githubusercontent.com/85157790/165747576-4fed62eb-2c23-4694-993e-aa8e58eded49.png"></image>
 <ul>
   <li> DB에 일치하는 정보가 있을시에 가입시 입력한 메일로 임시비밀번호를 전송합니다.
