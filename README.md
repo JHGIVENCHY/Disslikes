@@ -12,6 +12,12 @@
 <image src="https://user-images.githubusercontent.com/85157790/165747569-45be6ecb-96c6-46b4-8051-e789272958cd.png"></image>
 <ul>
   <li> 사용자들이 등록한 호불호 조사글의 투표를 진행할수 있습니다.
+</ul>
+<hr>
+<h3>메인페이지2</h3>
+<image src="https://user-images.githubusercontent.com/85157790/165749583-3cc41709-bb8c-411a-a312-c59863cbad54.png"></image>
+<ul>
+  <li> 종료된 투표가 설정된 시간에 따라 순차적으로 보여집니다.
   <li> 게시글 등록은 로그인이 필요합니다.
 </ul>
 <hr>
