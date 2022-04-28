@@ -48,7 +48,7 @@
 <h3>진행중인투표2 페이지</h3>
 <image src="https://user-images.githubusercontent.com/85157790/165747578-30c9b481-f36a-45db-b2ba-1e2fb11f6730.png"></image>
 <ul>
-  <li> 투표시 투표현황을 볼 수 있습니다.
+  <li> 투표시 남은시간, 투표현황을 볼 수 있습니다.
 </ul>
 <hr>
 <h3>종료된투표 페이지</h3>
@@ -60,7 +60,7 @@
 <h3>종료된투표2 페이지</h3>
 <image src="https://user-images.githubusercontent.com/85157790/165747586-9933a727-7f04-45a3-86b4-0470fb76af8a.png"></image>
 <ul>
-  <li> 리뷰 작성,조회 가능하며, DB에 저장된 평점의 합이 계산되어 별점이 표시됩니다.
+  <li> 몇표 차이로 호불호가 나뉘었는지 확인할수 있습니다.
 </ul>
 <hr>
 <h2>개발환경</h2>
