@@ -72,10 +72,10 @@
 <image src="https://user-images.githubusercontent.com/85157790/165753932-aa8a41aa-28c5-4756-96b1-d327175f6847.png"></image>
 <hr>
 <h2>프로그램구조</h2>
-<image src="https://user-images.githubusercontent.com/85157790/165740597-b268907d-377c-4c3e-9728-2c0d63b85edf.png"></image>
+<image src="https://user-images.githubusercontent.com/85157790/165754913-3b66ea77-1f13-450a-b54c-67ec14f5f201.png"></image>
 <hr>
 <h2>시스템개요</h2>
-
+<image src="https://user-images.githubusercontent.com/85157790/165755630-35aead56-9d30-4b48-9143-e4dca472309b.png"></image>
 <hr>
 <ol>
   <li>  
