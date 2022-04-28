@@ -12,12 +12,13 @@
 <image src="https://user-images.githubusercontent.com/85157790/165747569-45be6ecb-96c6-46b4-8051-e789272958cd.png"></image>
 <ul>
   <li> 사용자들이 등록한 호불호 조사글의 투표를 진행할수 있습니다.
+  <li> 게시글 등록은 로그인이 필요합니다.
 </ul>
 <hr>
-<h3>아이디,비밀번호 찾기페이지</h3>
+<h3>로그인페이지</h3>
 <image src="https://user-images.githubusercontent.com/85157790/165747573-553b5f8d-bc48-4ce5-baef-1f4de7d366b9.png"></image>
 <ul>
-  <li> DB에 일치하는 정보가 있을시에 아이디를 알려줍니다.
+  <li>로그인과, 회원가입 비밀번호 찾기 할수 있습니다.
 </ul>
 <hr>
 <image src="https://user-images.githubusercontent.com/85157790/165747576-4fed62eb-2c23-4694-993e-aa8e58eded49.png"></image>
