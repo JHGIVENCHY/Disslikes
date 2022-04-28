@@ -8,16 +8,10 @@
 <h2>사용동영상, 사용설명</h2>
 <video src="https://user-images.githubusercontent.com/85157790/165747505-97785237-2341-47fc-a290-3a862448386d.mp4"></video>
 <hr>
-<h3>로그인페이지</h3>
-<image src="https://user-images.githubusercontent.com/85157790/165747561-83aaa552-4aad-4a56-b1aa-de1ae9ddd7fa.png"></image>
-<ul>
-  <li> 로그인, 회원가입, 비밀번호찾기 가능하며, 비밀번호 틀릴시 위와같이 표시됩니다.
-</ul>
-<hr>
-<h3>회원가입페이지</h3>
+<h3>메인페이지</h3>
 <image src="https://user-images.githubusercontent.com/85157790/165747569-45be6ecb-96c6-46b4-8051-e789272958cd.png"></image>
 <ul>
-  <li> 회원가입시 위 양식에 맞게 작성해야 합니다. 
+  <li> 사용자들이 등록한 호불호 조사글의 투표를 진행할수 있습니다.
 </ul>
 <hr>
 <h3>아이디,비밀번호 찾기페이지</h3>
